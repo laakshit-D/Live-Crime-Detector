@@ -1,0 +1,10 @@
+opencv-python
+ffmpeg-python
+streamlit
+pillow
+pandas
+tensorflow
+pymongo
+moviepy
+streamlit_authenticator==0.1.3
+git+https://github.com/tensorflow/docs 
