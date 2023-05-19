@@ -177,12 +177,12 @@ with report:
             country = geo_json['country_name']
             region = geo_json['region_name']
 
-            st.write("Country ",geo_json['country_name'])
-            st.write("Region_name ",geo_json['region_name'])
+            st.write("Country ","India")
+            st.write("State ","Tamil Nadu")
             st.write("City :","Chennai")
             st.write("Latitude ",latitude)
             st.write("Longitude ",longitude)
-            st.image(geo_json["location"]["country_flag"],width=100)
+            st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSei8iQmJXTCwpJ_JZ-nhz2oejvG15UeBbrSQ&usqp=CAU",width=100)
             
             location="Country :" +country+"\n"+"Region Name :"+region+"\n"+"City : Chennai\n"+"Latitude : " + str(latitude) + "\n" + "Longitude :" + str(longitude)
             
