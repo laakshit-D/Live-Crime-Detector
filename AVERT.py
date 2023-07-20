@@ -162,16 +162,6 @@ if authentication_status == True:
             return frames
         if uploaded_file is not None:   
             test_frames = sequence_prediction("uploaded_video.mp4")
-        
-
-
-
-
-
-
-
-
-
 
     st.text('This is the Date retrieve by Kaggle...'
     'This depicts the CRIME RATE in INDIA...This has helps us to analyis the cime data.')
