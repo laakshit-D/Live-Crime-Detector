@@ -2,7 +2,7 @@
 
 ## AVERT
 
-This is a project focussing on detecting live crime with the help of Cctv cameras. This code is made suitable for contributions so free feel to use the code.
+This is a project focussing on detecting live crime with the help of CCTV cameras. This code is made suitable for contributions so free feel to use the code.
 Regime to contribute is shared in the Contributions.md file
 
 ## WORKFLOW
