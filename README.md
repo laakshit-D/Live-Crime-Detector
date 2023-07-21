@@ -60,6 +60,10 @@ Violence is an unfortunate reality in today's world, and quick response times ar
 - Twilio
 - MongoDB
 - Streamlit
+- Pandas
+- Pillow
+- Pymongo
+- Moviepy
 
 
 ## Contributing
