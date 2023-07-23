@@ -76,5 +76,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to our team at [contact@avertapp.com](mailto:harishr.shankar@gmail.com).
+If you have any questions, suggestions, or feedback, please feel free to reach out to our team at [contact@avertapp.com](mailto:harishr.shankar@gmail.com).,
 
